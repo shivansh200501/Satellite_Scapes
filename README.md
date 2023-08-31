@@ -12,9 +12,13 @@ Visualizations: The resulting segmented images and merged outputs are visualized
 
 ## Algorithm for Split and Merge:
 1.Define the criterion to be used for homogeneity. This could be, for example, the average intensity of the pixels in a region, the standard deviation of the intensities, or the entropy of the intensities.
+
 2.Split the image into equal size regions.
+
 3.Calculate the homogeneity for each region.
+
 4.If the region is homogeneous, then merge it with neighbors.
+
 5.The process is repeated until all regions pass the homogeneity test.
 
 
