@@ -10,7 +10,7 @@ Enhanced Analysis: Accurate segmentation aids in land cover classification, obje
 Customizable: The project provides flexibility to adjust algorithm parameters to cater to different types of satellite images and segmentation requirements.
 Visualizations: The resulting segmented images and merged outputs are visualized, showcasing the algorithm's effectiveness.
 
-## Algorithm for Dplit and Merge:
+## Algorithm for Split and Merge:
 1.Define the criterion to be used for homogeneity. This could be, for example, the average intensity of the pixels in a region, the standard deviation of the intensities, or the entropy of the intensities.
 2.Split the image into equal size regions.
 3.Calculate the homogeneity for each region.
@@ -18,6 +18,6 @@ Visualizations: The resulting segmented images and merged outputs are visualized
 5.The process is repeated until all regions pass the homogeneity test.
 
 
-Output Images:
+## Output Images:
 
 ![output](https://github.com/shivansh200501/Satellite_Scapes/assets/118676909/bfce32ac-20e5-44f7-95d9-69e933875a1e)
