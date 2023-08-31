@@ -10,4 +10,6 @@ Enhanced Analysis: Accurate segmentation aids in land cover classification, obje
 Customizable: The project provides flexibility to adjust algorithm parameters to cater to different types of satellite images and segmentation requirements.
 Visualizations: The resulting segmented images and merged outputs are visualized, showcasing the algorithm's effectiveness.
 
-![WhatsApp Image 2023-08-31 at 23 06 07](https://github.com/shivansh200501/Satellite_Scapes/assets/118676909/72572314-bda5-4538-a05f-1772b002c28c)
+Output Images:
+
+![output](https://github.com/shivansh200501/Satellite_Scapes/assets/118676909/bfce32ac-20e5-44f7-95d9-69e933875a1e)
