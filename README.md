@@ -9,9 +9,3 @@ Merging for Context: After segmentation, the algorithm intelligently merges segm
 Enhanced Analysis: Accurate segmentation aids in land cover classification, object detection, and change detection, enabling better decision-making in various domains.
 Customizable: The project provides flexibility to adjust algorithm parameters to cater to different types of satellite images and segmentation requirements.
 Visualizations: The resulting segmented images and merged outputs are visualized, showcasing the algorithm's effectiveness.
-
-🔗 Useful Links:
-
-Split and Merge Algorithm Explanation
-Satellite Image Dataset Source
-Remote Sensing Community
